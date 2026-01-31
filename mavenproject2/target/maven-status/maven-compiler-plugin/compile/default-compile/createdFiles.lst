@@ -1,0 +1,9 @@
+com\mycompany\mavenproject2\PROJECTAPDB.class
+com\mycompany\mavenproject2\App.class
+module-info.class
+com\mycompany\mavenproject2\EventItem.class
+com\mycompany\mavenproject2\Account.class
+com\mycompany\mavenproject2\SystemInfo.class
+com\mycompany\mavenproject2\Event.class
+com\mycompany\mavenproject2\HibernateUtil.class
+com\mycompany\mavenproject2\Attendance.class
